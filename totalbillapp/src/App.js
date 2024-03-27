@@ -206,7 +206,7 @@ const handlePrint = () => {
           Print
         </button>
       </div>
-      <div className="watermark">K.SNEHA'S</div>
+      <div className="watermark">NIKHIL'S</div>
     </div>
   );
 };
