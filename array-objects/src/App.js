@@ -7,7 +7,7 @@ const App = () => {
     {ID : 1 , Name : 'SNEHA' ,   Age : 21},
     {ID : 2 , Name : 'URDHVA'   ,   Age : 21},
     {ID : 3 , Name : 'SRAVANTHI' ,   Age : 21},
-    {ID : 4 , Name : 'ABHILASHA' ,   Age : 21},
+    {ID : 4 , Name : 'NIKHIL' ,   Age : 21},
     {ID : 5 , Name : 'MADHUMITHA'  ,   Age : 21},
 
   ];
